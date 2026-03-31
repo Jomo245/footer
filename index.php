@@ -10,7 +10,7 @@
 
 <body>
   <div class="container">
-    <section>
+    <section class="header_section">
       <div class="header">
 
         <div class="logo">
@@ -26,32 +26,45 @@
         </div>
 
       </div>
+       </section>
+
+
+       <!------------footer---------------->
+       <section class="footer_section">
+                 <div class="footer">
+                      <footer>
+                        <div class="footer_box">
+                          <h2>John jomo</h2>
+                          <p>Fullstack developer</p>
+                          <p>Building modern web applications</p>
+                        </div>
+
+                        <div class="footer_box">
+                          <h2>Quick links</h2>
+                            <p><a href="#">HOME</a></p>
+                            <p><a href="#">ABOUT</a></p>
+                            <p><a href="#">CONTACT</a></p>
+                          </div>
+
+                          <div class="footer_box">
+                          <h2>Services</h2>
+                          <p>Web development</p>
+                          <p>Frontend development</p>
+                        </div>
+
+                        <div class="footer_box">
+                          <h3>Contact</h3>
+                          <p><a href="mailto:johnjomo2020@gmail.com">johnjomo2020@gmail.com</a></p>
+                          <p>+254 700 000 000</p>
+                        </div>
+                      </footer>
+                 </div>
+       </section>
+
   </div>
-  </section>
+ 
 
-  <div class="footer_section">
-    <footer>
-      <div class="footer_box">
-        <h2>John Doe</h2>
-        <p>Full Stack Developer</p>
-        <p>john.doe@example.com</p>
-      </div>
-
-      <div class="footer_box">
-        <h2>Skills</h2>
-        <p>HTML</p>
-        <p>CSS</p>
-        <p>JavaScript</p>
-      </div>
-
-      <div class="footer_box">
-        <h2>Quick Links</h2>
-        <p><a href="#">HOME</a></p>
-        <p><a href="#">ABOUT</a></p>
-        <p><a href="#">CONTACT</a></p>
-      </div>
-    </footer>
-  </div>
+  
 
 </body>
 
