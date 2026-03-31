@@ -29,6 +29,11 @@
        </section>
 
 
+       <div class="body_content">
+          <h1>Welcome to my website</h1>
+          <p>This is a simple website with a header, body content, and a footer.</p>
+       </div>
+
        <!------------footer---------------->
        <section class="footer_section">
                  <div class="footer">
@@ -53,8 +58,8 @@
                         </div>
 
                         <div class="footer_box">
-                          <h3>Contact</h3>
-                          <p><a href="mailto:johnjomo2020@gmail.com">johnjomo2020@gmail.com</a></p>
+                          <h2>Contact</h2>
+                          <p><a href="mailto:johnisige2020@gmail.com">johnisige2020@gmail.com</a></p>
                           <p>+254 700 000 000</p>
                         </div>
                       </footer>
